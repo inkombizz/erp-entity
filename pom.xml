@@ -72,7 +72,6 @@
     </dependencies>
 
     <build>
-        <finalName>agn-entity</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
